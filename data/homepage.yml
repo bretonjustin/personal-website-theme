@@ -1,7 +1,7 @@
 # page title
 head:
-  title: "Demo site for Adritian - a high performance hugo theme by Adrián Moreno"
-  description: "This hugo theme (Adritian) is based on Boostrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  title: "Justin Breton - Personal Portfolio"
+  description: "This website is a personal portfolio of Justin Breton. It showcases his work, experience, and skills."
 # showcase
 showcase:
   enable: true
@@ -22,34 +22,13 @@ showcase:
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/adrianmoreno/"
+      URL: "https://www.linkedin.com/in/bretonjustin/"
 
     - icon: "github"
-      URL: "https://github.com/zetxek"
-
-    - icon: "twitter"
-      URL: "https://twitter.com/zetxek"
-
-    - icon: "dribbble"
-      URL: "#"
-
-    - icon: "behance"
-      URL: "#"
-
-    - icon: "youtube"
-      URL: "#"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com/zetxek/"
+      URL: "https://github.com/bretonjustin"
 
     - icon: "facebook"
-      URL: "https://www.facebook.com/zetxek/"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "https://www.yelp.com/"
+      URL: "https://www.facebook.com/bretonjustin/"
 
 # about
 about:
